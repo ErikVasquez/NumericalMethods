@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\Métodos Númericos\Gauss-Seidel\Gauss-Seidel\bin\Debug\Gauss-Seidel.exe.config
+C:\Users\usuario\Desktop\Métodos Númericos\Gauss-Seidel\Gauss-Seidel\bin\Debug\Gauss-Seidel.exe
+C:\Users\usuario\Desktop\Métodos Númericos\Gauss-Seidel\Gauss-Seidel\bin\Debug\Gauss-Seidel.pdb
+C:\Users\usuario\Desktop\Métodos Númericos\Gauss-Seidel\Gauss-Seidel\obj\Debug\Gauss-Seidel.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Métodos Númericos\Gauss-Seidel\Gauss-Seidel\obj\Debug\Gauss-Seidel.exe
+C:\Users\usuario\Desktop\Métodos Númericos\Gauss-Seidel\Gauss-Seidel\obj\Debug\Gauss-Seidel.pdb
